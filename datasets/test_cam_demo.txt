@@ -1,0 +1,3 @@
+./datasets/demo/images/0763right.jpg 0 1 ./datasets/demo/annos/0763right.png
+./datasets/demo/images/0997right1.jpg 0 1 ./datasets/demo/annos/0997right1.png
+./datasets/demo/images/1273left.jpg 0 1 ./datasets/demo/annos/1273left.png
